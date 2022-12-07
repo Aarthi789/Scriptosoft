@@ -1,0 +1,91 @@
+
+
+.mainSciptosoft{
+
+    background-image: url(../../../assets/images/mainbg.svg);
+    background-size: 79%;
+    background-repeat: no-repeat;
+    background-position: 536px -362px;
+    height: 1000px;
+
+               // color: #3f5a7e;
+.subBanner{
+    background-image: url(../../../assets/images/mainbg.svg);
+  
+    background-size: 69%;
+    background-repeat: no-repeat;
+    background-position: -921px -536px;
+    height: 1000px;
+}
+    .mainBanner{
+            
+            text-align: left;
+            align-items: center;
+           
+            padding: 18px;
+            height: 500px;
+ 
+
+
+        .banText{
+
+            h1{
+                margin-top: 216px;
+                font-size: 4.6rem;
+                color: #336699;
+                line-height: 78px;
+                text-shadow: 0px 6px 7px #80808073;
+            }
+
+            p{
+                margin-top: 52px;
+                margin-bottom: 2rem;
+                color: #6e6d6d;
+            }
+
+            .ScriptBtn{
+                background-color: #ffcd03;
+                border: none;
+                color: #ffff;
+            }
+        }
+
+        .banImage{
+
+            margin-top: 43px;
+         img{
+            width: 111%;
+            margin-top: -7px;
+         }
+        }
+    }
+
+   
+}
+
+.mainServices{
+
+    .container{
+        .whatweAre{
+            h1{
+                font-size: 4.6rem;
+                color: #336699;
+                line-height: 78px;
+                text-shadow: 0px 6px 7px #80808073;
+            }
+
+            p{
+                margin-top: 52px;
+                margin-bottom: 2rem;
+                color: #6e6d6d;
+            }
+        }
+
+        .subServices{
+            height: 276px;
+            width: 282px;
+            background-color: lightblue;
+            border-radius: 50px;
+        }
+    }
+}
