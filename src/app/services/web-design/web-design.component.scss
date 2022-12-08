@@ -21,4 +21,21 @@
 
         
     }
+
+    .aboutServices{
+        .aboutsubService{
+            h1{
+                font-size: 8vh;
+                font-weight: 700;
+                color: #fff;
+                text-shadow: 0px 9px 1px rgb(128 128 128 / 51%);
+                margin: 36px 0px;
+            }
+            p{
+                font-size: 3vh;
+                color: #ffff;
+                line-height: 32px;
+            }
+        }
+    }
 }
