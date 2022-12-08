@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.p-60{
+    padding: 0px 60px;
+}
+
+a{
+    text-decoration: none !important;
+}
+.ScriptBtn{
+    /* height: 45px; */
+    padding: 10px;
+    background-color: white;
+    border-radius: 31px;
+    width: 158px;
+    text-align: center;
+    color: black;
+    box-shadow: -1px 11px 11px rgb(128 128 128 / 54%);
+}

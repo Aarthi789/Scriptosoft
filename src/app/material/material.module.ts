@@ -1,12 +1,13 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import {MatExpansionModule} from '@angular/material/expansion';
 
-
+const mat =[
+  MatExpansionModule
+];
 
 @NgModule({
   declarations: [],
-  imports: [
-    CommonModule
-  ]
+  imports: [mat],
+  exports:[mat]
 })
 export class MaterialModule { }

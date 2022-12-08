@@ -24,17 +24,78 @@
 
     .aboutServices{
         .aboutsubService{
-            h1{
-                font-size: 8vh;
+            h2{
+                font-size: 7vh;
                 font-weight: 700;
-                color: #fff;
-                text-shadow: 0px 9px 1px rgb(128 128 128 / 51%);
+                color: rgb(137, 131, 131);
+                text-shadow: 0px 6px 1px rgb(198 184 184 / 51%);
                 margin: 36px 0px;
             }
             p{
                 font-size: 3vh;
+                color: rgb(137, 131, 131);
+                line-height: 32px;
+            }
+        }
+    }
+    .aboutServices1{
+        .aboutsubService1{
+            h2{
+                font-size: 7vh;
+                font-weight: 700;
+                color: rgb(137, 131, 131);
+                text-shadow: 0px 6px 1px rgb(198 184 184 / 51%);
+                margin: 36px 0px;
+            }
+            p{
+                font-size: 3vh;
+                color: rgb(137, 131, 131);
+                line-height: 32px;
+            }
+        }
+    }
+    .mainInnerServices{
+        background-color: rgb(24 216 184);
+        padding: 43px 0px;
+        background-image: linear-gradient(268deg, #55ebe5, transparent);
+        .inServiceHeading{
+            text-align: center;
+            h3{
+                font-size: 6vh;
+                font-weight: 700;
+                color: #ffff;
+                text-shadow: 0px 6px 1px rgb(198 184 184 / 51%);
+                margin: 36px 0px;
+            }
+           
+        }
+        .serviceCard{
+            padding: 19px;
+            border: solid gray;
+            background-color: #57d5ce00;
+            text-align: center;
+            h3{
+                font-size: 5vh;
+                font-weight: 700;
+                color: #ffff;
+                text-shadow: 0px 6px 1px rgb(198 184 184 / 51%);
+                margin: 36px 0px;
+            }
+            p{
+                font-size: 2vh;
                 color: #ffff;
                 line-height: 32px;
+            }
+        }
+    }
+    .mainFAQs{
+        .faqsList{
+            h4{
+                font-size: 7vh;
+                font-weight: 700;
+                color: rgb(137, 131, 131);
+                text-shadow: 0px 6px 1px rgb(198 184 184 / 51%);
+                margin: 36px 0px;  
             }
         }
     }
